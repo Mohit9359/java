@@ -18,7 +18,7 @@ public class problem1  {
         System.out.println("tell the target:");
         int target = sc.nextInt();
         subarrays(numbers,target);
-        return;
+    
     }
     
 }
