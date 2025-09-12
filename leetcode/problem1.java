@@ -19,7 +19,6 @@ public class problem1  {
         int target = sc.nextInt();
         subarrays(numbers,target);
 
-    sc.close();
     }
     
 }
