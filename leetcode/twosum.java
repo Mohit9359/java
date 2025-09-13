@@ -1,6 +1,6 @@
 package leetcode;
 import java.util.*;
-public class problem1  {
+public class twosum  {
     public static void subarrays(int numbers[],int target){
         for(int i=0;i<numbers.length;i++){
             int current=numbers[i];
