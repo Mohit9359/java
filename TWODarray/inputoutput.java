@@ -1,5 +1,6 @@
 package TWODarray;
 import java.util.*;
+@SuppressWarnings("resource")
 public class inputoutput {
     public static void main(String[] args) {
         int matrix[][]= new int[3][3];

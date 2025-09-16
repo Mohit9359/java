@@ -1,5 +1,7 @@
+
 package leetcode;
 import java.util.*;
+@SuppressWarnings("resource")
 public class twosum  {
     public static void subarrays(int numbers[],int target){
         for(int i=0;i<numbers.length;i++){
