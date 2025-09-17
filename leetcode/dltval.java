@@ -1,4 +1,4 @@
-package leetcode;
+package Leetcode;
 
 public class dltval {
     public static int delete(int nums[], int val) {

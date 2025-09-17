@@ -1,4 +1,4 @@
-package leetcode;
+package Leetcode;
 public class duplicates{
     public static void duplicate(int nums[]){
         int count =1;

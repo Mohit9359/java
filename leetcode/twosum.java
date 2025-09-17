@@ -1,5 +1,5 @@
 
-package leetcode;
+package Leetcode;
 import java.util.*;
 @SuppressWarnings("resource")
 public class twosum  {

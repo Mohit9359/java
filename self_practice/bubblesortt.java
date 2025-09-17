@@ -1,4 +1,4 @@
-package self_practice;
+package Self_practice;
 
 public class bubblesortt {
     public static void bubblesort(int array[]){

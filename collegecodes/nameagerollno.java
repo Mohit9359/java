@@ -1,4 +1,4 @@
-package collegecodes;
+package CollegeCodes;
 import java.util.Scanner;
 public class nameagerollno {
     public static void main(String args[]){

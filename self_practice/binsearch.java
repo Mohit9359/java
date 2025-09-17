@@ -1,4 +1,4 @@
-package self_practice ;
+package Self_practice ;
 
 public class binsearch {
     public static int binarysearch(int numbers[],int key){

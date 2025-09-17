@@ -17,7 +17,7 @@
 //     }
 // }
 
-package self_practice;
+package Self_practice;
 
 public class linsearch {
     public static void linearsearch(int array[], int key) {

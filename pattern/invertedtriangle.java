@@ -1,4 +1,4 @@
-package pattern;
+package Pattern;
 import java.util.Scanner;
 public class invertedtriangle {
     public static void main(String args[]){

@@ -1,4 +1,4 @@
-package collegecodes;
+package CollegeCodes;
 import java.util.Scanner;
 public class divideby2 {
     public static void main(String args[]){
